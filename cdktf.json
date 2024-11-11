@@ -4,7 +4,9 @@
   "projectId": "52a500b0-f7cc-4c89-93e6-5a2734ea2045",
   "sendCrashReports": "false",
   "terraformProviders": [
-    "hashicorp/aws@~>4.0"
+    "hashicorp/aws@~>4.0",
+    "hashicorp/tls",
+    "hashicorp/local"
   ],
   "terraformModules": [],
   "codeMakerOutput": "imports",
