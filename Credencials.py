@@ -2,8 +2,8 @@ from enum import Enum
 
 
 class Cred(Enum):
-    Access = "AKIA5FTZBGWLQ7OMS4GZ"
-    Secret = "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"
+    Access = "####"
+    Secret = "+####"
     country_Region = "israel"
     main_subnet = "10.0.0.0"
     prefix = 16
